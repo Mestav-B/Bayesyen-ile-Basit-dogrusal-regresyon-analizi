@@ -1,0 +1,1 @@
+# Bayesyen-ile-Basit-dogrusal-regresyon-analizi
